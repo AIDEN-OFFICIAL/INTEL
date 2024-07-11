@@ -105,7 +105,7 @@ background-color: #F3F3F3;
     position: absolute;
     top: 0;
     left: 0;
-    opacity: 0.5; /* Adjust opacity as needed */
+    opacity: 0.5; 
 }
 .des {
     position: absolute;
@@ -113,13 +113,13 @@ background-color: #F3F3F3;
     left: -495px;
     width: 105%;
     height: 14%;
-    z-index: -1; /* Ensure the image is behind other elements */
+    z-index: -1; 
 }
 .clr
 {
 
         position: absolute;
-        top: 71px; /* Adjust to position below your content */
+        top: 71px; 
         left: 60.5%;
         width: 40%;
         height: 177%;
@@ -220,11 +220,11 @@ transition: transform 0.5s ease;
 {
 
         position: absolute;
-        top: 190%; /* Adjust to position below your content */
+        top: 190%; 
         right: 39.5%;
         width: 61%;
         height: 110%;
-        /* background-color: #1e0303; */
+        
         background: linear-gradient(to top, #ffffffc9, #DADADA);
         z-index: -1;
 }
