@@ -16,6 +16,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     overflow-x: hidden;
+    height:3600px;
 
 
 }
@@ -224,7 +225,7 @@ transition: transform 0.5s ease;
         right: 39.5%;
         width: 61%;
         height: 110%;
-        
+        /* background-color: #1e0303; */
         background: linear-gradient(to top, #ffffffc9, #DADADA);
         z-index: -1;
 }
